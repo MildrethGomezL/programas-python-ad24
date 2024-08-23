@@ -4,9 +4,10 @@
 - Correo: mildreth.gomez18@hotmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
+- p01-hola-mundo
+- p02-area-circulo
+- p03-area-triangulo
+- p04-paga-trabajador
 
 ## Actvidad 2
 - Programa 4
