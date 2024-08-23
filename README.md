@@ -1,4 +1,4 @@
-#Programas en python de la materia de computacion aplicada
+# Programas en python de la materia de computacion aplicada
 
 - Nombre: Mildreth Valeria Gomez Lumbreras
 - Correo: mildreth.gomez18@hotmail.com
