@@ -10,11 +10,14 @@
 - p04-paga-trabajador
 
 ## Actvidad 2
-- Programa 4
-- Programa 5
-- Programa 6
+- p05-promedio-de-cal
+- p06-operaciones matematicas
+- p06b-operadores de asignacion
+- p07-funciones-trigonometricas
+- p07b-funcones-del-modulo
+- p08-dividir-en-cifras
 
 ## Actividad 3
-- Programa 7
+- Programa 9
 
 
