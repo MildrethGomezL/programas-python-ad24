@@ -32,4 +32,11 @@
 - p17-convertir-temp
 - p18-pagos-trabajado2
 
+## Actividad 5
+- p19-verificar-suma
+- p20-calcular-ley-newton
+- p21-aceptar-estudiantesv2
+- p21-aceptra-estudiantes
+
+
 
