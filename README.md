@@ -37,6 +37,6 @@
 - p20-calcular-ley-newton
 - p21-aceptar-estudiantesv2
 - p21-aceptra-estudiantes
-
+- p22-tipoangulo
 
 
