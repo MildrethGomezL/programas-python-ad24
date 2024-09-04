@@ -40,6 +40,12 @@
 - p22-tipoangulo
 
 ## Tarea 2
+- p23-numero-consecutivos
+- p24-numero-mayor
+- p25-dia-delasemana
+- p26-numeros-romanos
+- p27-calculo-de-notas
+- p28-aceptar-estudiante-v2
 
 
 
