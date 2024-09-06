@@ -49,7 +49,11 @@
 
 ## Actividad 6
 - p29-numeros-1-100
+- p29-numeros-B
+- p29-numeros-C
 - p30-numeros-100-1
+- p30-numeros-B
+- p30-numeros-C
 - p31-numeros-1-200-10  
 - p32-numeros-suma-100  
 - p33-conteo-numeros
