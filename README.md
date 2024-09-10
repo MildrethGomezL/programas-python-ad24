@@ -3,6 +3,9 @@
 - Nombre: Mildreth Valeria Gomez Lumbreras
 - Correo: mildreth.gomez18@hotmail.com
 
+## Actividad 1
+- https://github.com/MildrethGomezL/programas-python-ad24
+
 ## Actividad 2
 - p01-hola-mundo
 - p02-area-circulo
