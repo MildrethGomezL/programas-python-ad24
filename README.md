@@ -77,4 +77,16 @@
 - p43-conversion-temperaturas
 - p44-numero-mayor
 
+## Actividad 8
+
+- p46-numeros-1-100-v3
+- p46-numeros-1-100
+- p46-numeros-1-100v2
+- p47-numeros-1-100v2
+- p47-numeros-1v1
+- p48-arriba-abajo
+- p49-suma-pares
+- p50-suma-numeros
+- p51-multiplos
+- p52-base-exponente
 
