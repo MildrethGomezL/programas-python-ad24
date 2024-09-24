@@ -90,3 +90,11 @@
 - p51-multiplos
 - p52-base-exponente
 
+## Actividad 9
+
+- p53-factorial
+- p54-tablamultiplicar
+- p55-tablas-multiplicar
+- p56-piramde-caracter
+- p57-factorial-numero
+- p58-combina-colores
