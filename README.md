@@ -114,6 +114,24 @@
 - p67–remover-lista
 - p68–iterar-lista
 
+## Actividad 11
+
+- p69-procesar-cal
+- p70-suma-listas
+- p71-dia-depaga
+- p72-nombres-edades
+- p73-listas-aleatorias
+
+## Tarea 5
+
+- p74-procesar-not
+- p75-lista-multiplicar
+- p76-meses-dia
+- p77-lista-aleatorios
+- p78-ciudades
+- p79-lista-impares
+
+## Actividad 12
 
 
 
