@@ -208,3 +208,9 @@
 - p135-empleado2
 - p136-circulo
 - p137-rectangulo
+
+## Tarea 9
+- 138-articulo
+
+## Actividad 18-Parte2
+- 139-ventas
